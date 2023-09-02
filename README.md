@@ -1,7 +1,7 @@
 
-Certainly! Here's a sample README file for a machine learning project that uses logistic regression to predict passenger survival on the Titanic dataset:
 
-Titanic Survival Prediction with Logistic Regression
+
+#Titanic Survival Prediction with Logistic Regression
 Overview
 This machine learning project utilizes logistic regression to predict passenger survival on the Titanic. The Titanic dataset contains information about passengers, including features like PassengerId, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, and Embarked. Our goal is to build a predictive model that determines whether a passenger survived the Titanic disaster or not.
 
@@ -43,7 +43,7 @@ Usage
 Clone this repository to your local machine:
 bash
 Copy code
-git clone 
+git clone https://github.com/kushagra8881/titanic.git
 Navigate to the project directory:
 bash
 Copy code
