@@ -1,6 +1,4 @@
 
-
-
 #Titanic Survival Prediction with Logistic Regression
 Overview
 This machine learning project utilizes logistic regression to predict passenger survival on the Titanic. The Titanic dataset contains information about passengers, including features like PassengerId, Pclass, Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, and Embarked. Our goal is to build a predictive model that determines whether a passenger survived the Titanic disaster or not.
